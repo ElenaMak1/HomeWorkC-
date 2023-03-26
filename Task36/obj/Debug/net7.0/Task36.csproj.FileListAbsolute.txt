@@ -1,0 +1,15 @@
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\bin\Debug\net7.0\Task36.exe
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\bin\Debug\net7.0\Task36.deps.json
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\bin\Debug\net7.0\Task36.runtimeconfig.json
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\bin\Debug\net7.0\Task36.dll
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\bin\Debug\net7.0\Task36.pdb
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\obj\Debug\net7.0\Task36.csproj.AssemblyReference.cache
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\obj\Debug\net7.0\Task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\obj\Debug\net7.0\Task36.AssemblyInfoInputs.cache
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\obj\Debug\net7.0\Task36.AssemblyInfo.cs
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\obj\Debug\net7.0\Task36.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\obj\Debug\net7.0\Task36.dll
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\obj\Debug\net7.0\refint\Task36.dll
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\obj\Debug\net7.0\Task36.pdb
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\obj\Debug\net7.0\Task36.genruntimeconfig.cache
+C:\Users\Elena\Desktop\HomeWork\HomeWorkC-\Task36\obj\Debug\net7.0\ref\Task36.dll
