@@ -14,7 +14,7 @@ void InputArray(int[] array)
 int SumOddPositionInArray(int[] array)
 {
     int summa = 0;
-    int i = 0; 
+    int i = 1; 
     while(i < array.Length)
     {
         summa = summa + array[i];
